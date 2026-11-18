@@ -1,6 +1,12 @@
 
 # BusLight — Monitoramento Inteligente de Pontos de Ônibus
 
+## Integrantes
+
+- Aline Fernandes Zeppelini - RM97966
+- Camilly Breitbach Ishida - RM551474
+- Julia Leite Galvão - RM550201
+
 ## Sobre o projeto
 
 O **BusLight** é um projeto de visão computacional desenvolvido com o objetivo de explorar o monitoramento inteligente de pontos de ônibus por meio de inteligência artificial.
@@ -114,4 +120,7 @@ Para executar a interface de detecção de imagens:
 5. Envie uma imagem e visualize as detecções.
 
 Não é necessário realizar o treinamento novamente quando os pesos do modelo já estão disponíveis.
+
+## Link para o vídeo demonstrativo
+
 
