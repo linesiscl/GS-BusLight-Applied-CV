@@ -283,6 +283,10 @@ Como possibilidades de evolução do projeto, destacam-se:
 - Evolução dos indicadores de acessibilidade e segurança.
 - Testes em ambientes reais de pontos de ônibus.
 
+## Vídeo demonstração
+
+Link: 
+
 ## Equipe
 
 Projeto desenvolvido por:
